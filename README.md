@@ -7,3 +7,14 @@ Language | science
 LateX | Almost, comprehensive 
 Python | Computer, natural science ...
 C/C++ | Everything
+Mathematica | Physics, Mathematics
+Matlab | Engineering
+
+For more information about programming language you can see [here](https://en.wikipedia.org/wiki/Programming_language)
+Also, it is important to know which one is most developed. For example, Python, For learning Python, you it is important to learn some modules and libraries like:
+- numpy
+- matplotlib
+- scipy
+- sympy
+- pandas
+- ...
